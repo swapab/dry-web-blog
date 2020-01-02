@@ -11,3 +11,6 @@
 
 # Temp files
 tmp/*
+
+.ruby-gemset
+.ruby-version
